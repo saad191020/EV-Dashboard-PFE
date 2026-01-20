@@ -20,6 +20,9 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 
 ![Dashboard Screenshot](images/rrrr.png)
 
+## opening camera while backward 
+![Dashboard Screenshot](images/rrrr.png)
+
 
 ## Results
 - Real-time vehicle monitoring and control.
