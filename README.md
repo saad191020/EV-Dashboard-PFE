@@ -18,6 +18,9 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 ## Screenshots
 ![Dashboard Screenshot](images/MainGUI.png)
 
+![Dashboard Screenshot](images/rrrr.png)
+
+
 ## Results
 - Real-time vehicle monitoring and control.
 - Successfully integrated STM32 and Jetson Nano systems.
