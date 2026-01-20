@@ -32,4 +32,6 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 ## Demo
 ![Demo Result](images/Demo)
 
-
+## ADAS Detection Capture
+![ADAS Capture](images/adas_capture.png)  
+*Placeholder for AI model detection: speed limit and vehicle ahead.*
