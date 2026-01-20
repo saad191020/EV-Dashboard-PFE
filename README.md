@@ -23,8 +23,7 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 - Successfully integrated STM32 and Jetson Nano systems.
 - Fully functional GUI for user interaction.
 
-## Demo Video
-images/WhatsApp Image 2026-01-20 at 01.10.38 (1).png
-![Demo Result](images/WhatsApp Image 2026-01-20 at 01.10.38 (1).png)
+## Demo
+![Demo Result](images/Demo)
 
 
