@@ -16,7 +16,7 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 ![System Diagram](images/System Diagram.PNG)
 
 ## Screenshots
-![Dashboard Screenshot]
+![Dashboard Screenshot](images/MainGUI.png)
 
 ## Results
 - Real-time vehicle monitoring and control.
@@ -24,4 +24,4 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 - Fully functional GUI for user interaction.
 
 ## Demo Video
-[Watch the demo]
+[Watch the demo]()
