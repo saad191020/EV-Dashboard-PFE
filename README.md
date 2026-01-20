@@ -1,6 +1,13 @@
 # EV-Dashboard-PFE
-Digital dashboard for a 3-wheel electric vehicle (EV).  
-The system provides **real-time monitoring and control** of the vehicle, including motor, sensors, and cameras, with a user-friendly interface on a 7-inch touchscreen.
+
+This project is my **Master’s thesis** for my final year.  
+It focuses on developing a **digital dashboard for a 3-wheel electric vehicle**, combining hardware and software systems:  
+- Real-time vehicle monitoring (speed, battery, motor)  
+- Sensor integration via STM32  
+- Camera-based **ADAS AI model** for detecting speed limits and vehicles ahead  
+- Interactive GUI on a 7-inch touchscreen for driver interaction  
+
+The goal is to create a functional, user-friendly, and safe dashboard ready for demonstration and practical use.
 
 ## Objectives
 - Display speed, battery status, and motor status.
