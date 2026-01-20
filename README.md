@@ -24,4 +24,4 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 - Fully functional GUI for user interaction.
 
 ## Demo Video
-[Watch the demo]()
+[Watch the demo](images/WhatsApp Image 2026-01-20 at 01.10.38 (1).jpeg)
