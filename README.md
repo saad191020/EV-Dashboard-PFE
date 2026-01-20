@@ -13,7 +13,7 @@ Digital dashboard for a 3-wheel electric vehicle. Real-time monitoring and contr
 - Jetson Nano (interface control)
 
 ## Architecture
-![System Diagram](images/system_diagram.png)
+![System Diagram](images/System.PNG)
 
 ## Screenshots
 ![Dashboard Screenshot](images/MainGUI.png)
